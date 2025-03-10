@@ -1,5 +1,6 @@
 let amigo = [];
 
+//Se crea un evento que al presionar la tecla enter se ejecute la función agregarAmigo.
 document.getElementById("amigo").addEventListener("keypress", function(event) {
     if (event.key === "Enter") {
         agregarAmigo();
