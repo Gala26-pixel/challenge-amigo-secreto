@@ -1,4 +1,12 @@
 let amigo = [];
+
+document.getElementById("amigo").addEventListener("keypress", function(event) {
+    if (event.key === "Enter") {
+        agregarAmigo();
+    }
+}
+);
+
 //Función para agregar amigos.
 //Se crea una función que ya esta especificada en el index.html.
 //Se crea una variable llamada inputAmigo que obtiene el valor del input con el id amigo.
@@ -52,8 +60,4 @@ function sortearAmigo() {
 
 } 
 
-    /// hacer las mejoras para que mas de una persona del grupo lo utiluce.
-
-
-    
-
+// Vincular ENTER key al boton de agregar amigo//
