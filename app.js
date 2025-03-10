@@ -36,7 +36,7 @@ function renderizarAmigos(){
 }
 
 function sortearAmigo() {
-    if (amigo.length < 2){
+    if (amigo.length < 3){
         alert("Agrega al menos dos amigos");
         return;
     }
