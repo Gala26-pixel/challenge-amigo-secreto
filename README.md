@@ -1,3 +1,3 @@
-# challenge-amigo-secreto
+#Sorteo Amigo Secreto
 
-This repo shows a fun way to get your secret friend
+
