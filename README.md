@@ -12,7 +12,7 @@ Esta tiene como unica condición agregar almenos 3 nombres en la lista para pord
 ## Sigue el paso a paso para hacer uso de la aplicación:
 * :one: Agrega almenos 3 nombres de los participantes del Juego.
 * :two: Dar click en el botón Sortear Amigo o presionar la tecla ENTER.
-* 3️⃣ El nombre del amigo secreto se mostrará en la pantalla para cada uno de los participantes.
+* :three: El nombre del amigo secreto se mostrará en la pantalla para cada uno de los participantes.
 
 ## Herramientas Usadas 🧰
 *  Editor de texto VScode
